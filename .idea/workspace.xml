@@ -2,86 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78fd2043-f8cb-43ae-9c38-98bc553a476d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bolditalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bolditalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bolditalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-italic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-lightitalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-lightitalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-lightitalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/contact_form_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/review_dima.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/review_zar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/viking.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/work-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/work-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/work-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/work-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/portfolio-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/another-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bolditalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-bolditalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-lightitalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-lightitalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-medium.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/roboto-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/sprite.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/tmp/spriteSvg.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/tmp/spriteSvgDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welcome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/map.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/user_photo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/water.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/another-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/viking.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/FontAwesome.otf" afterPath="$PROJECT_DIR$/assets/font/fontawesome/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/assets/font/fontawesome/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/font/fontawesome/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/assets/font/fontawesome/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/assets/font/fontawesome/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/assets/font/fontawesome/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bold.eot" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bold.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bold.svg" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bold.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bold.ttf" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bold.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bold.woff" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bold.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bold.woff2" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bold.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bolditalic.eot" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bolditalic.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bolditalic.svg" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bolditalic.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bolditalic.ttf" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bolditalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bolditalic.woff" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bolditalic.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-bolditalic.woff2" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-bolditalic.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-italic.eot" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-italic.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-italic.svg" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-italic.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-italic.ttf" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-italic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-italic.woff" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-italic.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-italic.woff2" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-italic.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-light.eot" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-light.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-light.svg" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-light.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-light.ttf" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-light.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-light.woff" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-light.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-light.woff2" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-light.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-lightitalic.eot" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-lightitalic.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-lightitalic.svg" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-lightitalic.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-lightitalic.ttf" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-lightitalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-lightitalic.woff" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-lightitalic.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-lightitalic.woff2" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-lightitalic.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-medium.eot" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-medium.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-medium.svg" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-medium.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-medium.ttf" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-medium.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-medium.woff" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-medium.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-medium.woff2" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-medium.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.eot" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-mediumitalic.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.svg" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-mediumitalic.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.ttf" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-mediumitalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.woff" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-mediumitalic.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-mediumitalic.woff2" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-mediumitalic.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-regular.eot" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-regular.svg" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-regular.ttf" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-regular.woff" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/roboto-regular.woff2" afterPath="$PROJECT_DIR$/assets/font/roboto/roboto-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.eot" afterPath="$PROJECT_DIR$/assets/font/sansus/sansus-webissimo-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.svg" afterPath="$PROJECT_DIR$/assets/font/sansus/sansus-webissimo-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.ttf" afterPath="$PROJECT_DIR$/assets/font/sansus/sansus-webissimo-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.woff" afterPath="$PROJECT_DIR$/assets/font/sansus/sansus-webissimo-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/sansus-webissimo-regular.woff2" afterPath="$PROJECT_DIR$/assets/font/sansus/sansus-webissimo-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/tmp/spriteSvgDemo.html" afterPath="$PROJECT_DIR$/assets/tmp/spriteSvgDemo.html" />
     </list>
     <ignored path="portfolio-build.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,6 +77,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="portfolio-build" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -140,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,12 +179,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,6 +193,9 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Developer\PhpstormProjects\untitled4\portfolio-build" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Developer\PhpstormProjects\untitled4\portfolio-build" />
     </key>
@@ -221,6 +216,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -241,27 +241,51 @@
       <option name="number" value="Default" />
       <updated>1480931122388</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add content from build folder">
+      <created>1480931225705</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480931225705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3336887" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33742005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Add content from build folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add content from build folder" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
